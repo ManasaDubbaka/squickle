@@ -1,0 +1,10 @@
+.poster-sq{
+    display:flex;
+    margin:0px;
+    align-items: center;
+    padding-left: 150px;
+}
+.sq-title {
+    text-align: center;
+    font-size: 30px;
+}
